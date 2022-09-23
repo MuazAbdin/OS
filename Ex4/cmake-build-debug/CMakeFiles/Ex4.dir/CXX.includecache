@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/MemoryConstants.h
+climits
+-
+stdint.h
+-
+
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.h
+MemoryConstants.h
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/MemoryConstants.h
+
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.cpp
+VirtualMemory.h
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.h
+PhysicalMemory.h
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.h
+cstdio
+-
+bitset
+-
+
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.h
+MemoryConstants.h
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/MemoryConstants.h
+

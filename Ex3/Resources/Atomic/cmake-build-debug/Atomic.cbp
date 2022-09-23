@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Atomic"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atomicdemo_multivar">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/atomicdemo_multivar" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 atomicdemo_multivar"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atomicdemo_multivar/fast">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/atomicdemo_multivar" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 atomicdemo_multivar/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atomicdemo">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/atomicdemo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 atomicdemo"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atomicdemo/fast">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/atomicdemo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 atomicdemo/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Atomic">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Atomic" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 Atomic"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Atomic/fast">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Atomic" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 Atomic/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/Makefile">
+			<Option target="Atomic"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/README">
+			<Option target="Atomic"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/atomicdemo.cpp">
+			<Option target="atomicdemo"/>
+			<Option target="Atomic"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/atomicdemo_multivar.cpp">
+			<Option target="atomicdemo_multivar"/>
+			<Option target="Atomic"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Atomic/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

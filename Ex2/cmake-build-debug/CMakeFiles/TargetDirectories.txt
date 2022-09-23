@@ -1,0 +1,7 @@
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/CMakeFiles/demo_itimer.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/CMakeFiles/jona1.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/CMakeFiles/demo_jmp.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/CMakeFiles/demo_singInt_handler.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/CMakeFiles/Ex2.dir

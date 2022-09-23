@@ -1,0 +1,112 @@
+[
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DSINGLE_TABLE_CONSTANTS  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/SingleTableVirtualMemory.dir/VirtualMemory.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DSINGLE_TABLE_CONSTANTS  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/SingleTableVirtualMemory.dir/PhysicalMemory.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DUNREACHABLE_FRAMES_CONSTANTS  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/UnreachableFramesVirtualMemory.dir/VirtualMemory.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DUNREACHABLE_FRAMES_CONSTANTS  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/UnreachableFramesVirtualMemory.dir/PhysicalMemory.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DOFFSET_DIFFERENT_FROM_INDEX  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/OffsetDifferentThanIndexMemory.dir/VirtualMemory.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DOFFSET_DIFFERENT_FROM_INDEX  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/OffsetDifferentThanIndexMemory.dir/PhysicalMemory.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DNORMAL_CONSTANTS  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/VirtualMemory.dir/VirtualMemory.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DNORMAL_CONSTANTS  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/VirtualMemory.dir/PhysicalMemory.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DNO_EVICTION_CONSTANTS  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/NoEvictionVirtualMemory.dir/VirtualMemory.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DNO_EVICTION_CONSTANTS  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/NoEvictionVirtualMemory.dir/PhysicalMemory.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DTEST_CONSTANTS  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/TestVirtualMemory.dir/VirtualMemory.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/VirtualMemory.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DTEST_CONSTANTS  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/TestVirtualMemory.dir/PhysicalMemory.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/PhysicalMemory.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DNO_EVICTION_CONSTANTS -I/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/.. -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/include -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/ex4Tests_NoEviction.dir/kb_tests.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/kb_tests.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/kb_tests.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DSINGLE_TABLE_CONSTANTS -I/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/.. -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/include -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/ex4Tests_SingleTable.dir/kb_tests.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/kb_tests.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/kb_tests.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DOFFSET_DIFFERENT_FROM_INDEX -I/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/.. -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/include -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/ex4Tests_OffsetDifferentThanIndex.dir/kb_tests.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/kb_tests.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/kb_tests.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DTEST_CONSTANTS -I/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/.. -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/include -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/ex4Tests_SmallConstants.dir/kb_tests.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/kb_tests.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/kb_tests.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DUNREACHABLE_FRAMES_CONSTANTS -I/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/.. -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/include -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/ex4Tests_UnreachableFrames.dir/kb_tests.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/kb_tests.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/kb_tests.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -DINC_TESTING_CODE -DNORMAL_CONSTANTS -I/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/.. -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/include -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wextra -g -O0 -std=gnu++11 -o CMakeFiles/ex4Tests_NormalConstants.dir/kb_tests.cpp.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/kb_tests.cpp",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/tests/kb_tests.cpp"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-build/googlemock",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googlemock/include -I/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googlemock -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/include -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-build/googlemock",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googlemock/include -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googlemock -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/include -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-build/googletest",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/include -isystem /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-build/googletest",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/include -I/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex4/cmake-build-debug/tests/googletest-src/googletest/src/gtest-all.cc"
+}
+]

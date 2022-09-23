@@ -1,0 +1,51 @@
+muaz.abdeen, almogco
+Muaz Abdeen (300575297), Almog Cohen (207005950)
+EX: 2
+
+FILES:
+
+
+REMARKS:
+
+
+ANSWERS:
+=====
+Q.1
+=====
+One of the general purposes to use the multi-threading is to execute 
+multiple tasks at once (in parallel).
+It’s better to use the user-level threads in application (program) that 
+does not need a lot of communication with I/O devices, and if we want to 
+run it on different operating systems, because these threads communicate 
+faster, and there is no need for kernel traps, which means low overhead, 
+and because the user build a complete library for managing the threads.
+
+
+=====
+Q.2
+=====
+
+
+=====
+Q.3
+=====
+We have two main interrupts and signals:
+  a. Every keystroke on the keyboard triggers a hardware interrupt, 
+     which received by the OS, which sends a signal to the “shell” process, 
+     which executes some handler for that, eventually leads to display what
+     was typed on the screen. 
+  b. The shell command “kill [pid of a process]” triggers a software interrupt
+     by invoking the sys call kill([pid of process], SIGTERM), SIGTERM is the default 
+     signal. The kernel catches this interrupt and sends the termination signal to the 
+     process, which handles this signal by terminating.
+
+
+=====
+Q.4
+=====
+Real time: is the time that has passed in the system clock.
+Virtual time: is the running time of some specific process.
+
+Utilization of the CPU depends on the virtual time, because it measures the actual time
+a process takes to be executed without the sys calls and their attached overhead. However, the
+CPU usage depends on the overall time a process runs on the CPU, that is the real time.

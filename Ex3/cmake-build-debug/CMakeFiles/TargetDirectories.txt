@@ -1,0 +1,5 @@
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/cmake-build-debug/CMakeFiles/draft.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/cmake-build-debug/CMakeFiles/SampleClient.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/cmake-build-debug/CMakeFiles/Ex3.dir

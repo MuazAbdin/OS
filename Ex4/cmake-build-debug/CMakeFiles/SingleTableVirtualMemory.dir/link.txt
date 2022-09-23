@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libSingleTableVirtualMemory.a  CMakeFiles/SingleTableVirtualMemory.dir/VirtualMemory.cpp.o CMakeFiles/SingleTableVirtualMemory.dir/PhysicalMemory.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libSingleTableVirtualMemory.a

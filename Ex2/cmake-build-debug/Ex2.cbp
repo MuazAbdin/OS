@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ex2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="demo_itimer">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/demo_itimer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 demo_itimer"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="demo_itimer/fast">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/demo_itimer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 demo_itimer/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona1">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/jona1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona1/fast">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/jona1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="demo_jmp">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/demo_jmp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 demo_jmp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="demo_jmp/fast">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/demo_jmp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 demo_jmp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="demo_singInt_handler">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/demo_singInt_handler" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 demo_singInt_handler"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="demo_singInt_handler/fast">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/demo_singInt_handler" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 demo_singInt_handler/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ex2">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/libEx2.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ex2/fast">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/libEx2.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/Ex2 Resources-20210508/demo_itimer.c">
+			<Option target="demo_itimer"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/Ex2 Resources-20210508/demo_jmp.c">
+			<Option target="demo_jmp"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/Ex2 Resources-20210508/demo_singInt_handler.c">
+			<Option target="demo_singInt_handler"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/jona1.cpp">
+			<Option target="jona1"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/uthreads.cpp">
+			<Option target="Ex2"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/uthreads.h">
+			<Option target="Ex2"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,6 @@
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/CMakeFiles/condition_variable3.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/CMakeFiles/condition_variable2.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/CMakeFiles/condition_variable1.dir
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/CMakeFiles/Condition_variable.dir

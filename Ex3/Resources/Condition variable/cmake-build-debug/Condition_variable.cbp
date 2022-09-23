@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Condition_variable"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="condition_variable3">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/condition_variable3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 condition_variable3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="condition_variable3/fast">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/condition_variable3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 condition_variable3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="condition_variable2">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/condition_variable2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 condition_variable2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="condition_variable2/fast">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/condition_variable2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 condition_variable2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="condition_variable1">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/condition_variable1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 condition_variable1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="condition_variable1/fast">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/condition_variable1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 condition_variable1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Condition_variable">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/Condition_variable" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 Condition_variable"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Condition_variable/fast">
+				<Option output="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug/Condition_variable" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 Condition_variable/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition\ variable/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/condition_variable1.cpp">
+			<Option target="condition_variable1"/>
+			<Option target="Condition_variable"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/condition_variable2.cpp">
+			<Option target="condition_variable2"/>
+			<Option target="Condition_variable"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/condition_variable3.cpp">
+			<Option target="condition_variable3"/>
+			<Option target="Condition_variable"/>
+		</Unit>
+		<Unit filename="/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Condition variable/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

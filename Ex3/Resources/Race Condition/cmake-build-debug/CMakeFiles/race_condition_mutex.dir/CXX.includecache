@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/Resources/Race Condition/race_condition_mutex.cpp
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+

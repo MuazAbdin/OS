@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/uthreads.cpp
+uthreads.h
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/uthreads.h
+
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/uthreads.h
+

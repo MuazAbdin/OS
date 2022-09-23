@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex2/Ex2 Resources-20210508/demo_singInt_handler.c
+stdio.h
+-
+signal.h
+-
+unistd.h
+-
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -pthread -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Ex3.dir/Barrier.cpp.o CMakeFiles/Ex3.dir/MapReduceFramework.cpp.o CMakeFiles/Ex3.dir/SampleClient.cpp.o  -o Ex3 

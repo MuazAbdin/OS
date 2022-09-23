@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/MapReduceClient.h
+vector
+-
+utility
+-
+
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/MapReduceFramework.h
+MapReduceClient.h
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/MapReduceClient.h
+
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/SampleClient.cpp
+MapReduceFramework.h
+/Users/Muadz/Downloads/HUJI/2020_21_sem_B/OS/Exercises/Ex3/MapReduceFramework.h
+cstdio
+-
+string
+-
+array
+-
+unistd.h
+-
+
